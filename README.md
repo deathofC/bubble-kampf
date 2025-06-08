@@ -1,2 +1,4 @@
 # bubble-kampf
-bubble struggle made in python using pygame-ce
+Adriano Cezar Tessaro Junior
+1138080
+Jogo feito usando pygame, python3
