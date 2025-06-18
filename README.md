@@ -23,5 +23,9 @@ Dias depois, os servidores começaram a reiniciar. A vida digital voltava. A ame
 Adriano Cezar Tessaro Junior, RA 1138080
 Jogo feito usando pygame, python3, pyttsx3, speech_recognition
 
+<<<<<<< HEAD
 Testador do Jogo: João Gabriel Winck Mendes
 RA:1137652
+=======
+Testador do Jogo: João Gabriel Winck Mendes 1137704
+>>>>>>> a4b8cf97f80a1c42019750eecbfd27ba34742c82
