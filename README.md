@@ -19,6 +19,6 @@ Mas a tartaruga também aprendia. Ela não era rápida como antes, mas era deter
 
 Com seu último disparo, ela lançou um feixe de energia diretamente no coração da bolha. Tudo ficou branco. Depois, escuro. Depois, silêncio.
 Dias depois, os servidores começaram a reiniciar. A vida digital voltava. A ameaça havia sido eliminada.
-Adriano Cezar Tessaro Junior
-1138080
-Jogo feito usando pygame, python3
+
+Adriano Cezar Tessaro Junior, RA 1138080
+Jogo feito usando pygame, python3, pyttsx3, speech_recognition
