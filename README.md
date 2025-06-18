@@ -22,3 +22,5 @@ Dias depois, os servidores começaram a reiniciar. A vida digital voltava. A ame
 
 Adriano Cezar Tessaro Junior, RA 1138080
 Jogo feito usando pygame, python3, pyttsx3, speech_recognition
+
+Testador do Jogo: nome ra
